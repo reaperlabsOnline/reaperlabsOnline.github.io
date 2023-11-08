@@ -12,4 +12,4 @@ permalink: /about/
 
 ### Contact me
 
-[email@domain.com](mailto:reaperlabs.online@proton.me)
+[reaperlabs.online@proton.me](mailto:reaperlabs.online@proton.me)
