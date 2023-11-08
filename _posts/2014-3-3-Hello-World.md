@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my blog
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+## welcome to Reaperlabs Blog 
+
+Here is where I will document my homelab. This is my first ever blog so bear with me as, like my homelab, my blog will be learning journey as well. I am excited to share this will you and hope that in the course of this blog I can share some valueable knowledge and save you from some of the same mis-steps I made (although they did help make me a better admin.) 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
