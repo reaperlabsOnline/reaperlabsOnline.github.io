@@ -9,7 +9,7 @@ permalink: /about/
 
 &nbsp &nbsp &nbsp &nbsp I really got serious about labbing around 2 years ago. Prior to that I was purely intersted in tech from an entertainment standpoint. It was fun to use and allowed me to play games with great graphics and awesome FPS. 
 
-**To Be Comntinued....**
+**To Be Continued....**
 
 
 
