@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: reaperlabsOnline.github.io
+name: Reaperlabs
 
 # Short bio or description (displayed in the header)
 description: A blog of my IT and Homelab journey ( Tips, Tricks, & Lessons Learned )
@@ -18,7 +18,7 @@ avatar: images/fe10f246-959b-4271-96d0-5ad8b68fec9d.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: reaperlabs.online@proton.me
   facebook:
   flickr:
   github: reaperlabsOnline/jekyll-now
