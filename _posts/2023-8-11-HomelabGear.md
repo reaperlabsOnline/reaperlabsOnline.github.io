@@ -19,10 +19,10 @@ This is the gear I currently have in my homelab:
  8) Windows 10 Laptop 
 
 ### Physical Networking Equipment : 
-  1) Router1 Netgear Nighthawk
-  2) Router2 Netgear WAP123
-  3) Switch1 HP Procurve 1910 24 port GBe + 2 SFP layer 3
-  4) Switch2 Trendnet 12 port 10GB SFP+ layer 2 managed
-  5) Switch3 Trendnet 24 port GBe + 2 SFP+m 10GB layer 2
-  6) Switch4 5 port GBe + SFP
+  1) Router1 Netgear Nighthawk <br />
+  2) Router2 Netgear WAP123 <br /> 
+  3) Switch1 HP Procurve 1910 24 port GBe + 2 SFP layer 3 <br />
+  4) Switch2 Trendnet 12 port 10GB SFP+ layer 2 managed <br />
+  5) Switch3 Trendnet 24 port GBe + 2 SFP+m 10GB layer 2 <br />
+  6) Switch4 5 port GBe + SFP <br />
   7) Swithc5 Mikrotik RB2011 10 port GBe + SFP 
