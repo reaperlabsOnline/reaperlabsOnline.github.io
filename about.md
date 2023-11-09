@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /index/about/
 ---  
 <img src= images/dc-banner.jpg>
 ## **Slim Reaper** is my name and labbing is my game  
