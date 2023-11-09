@@ -29,4 +29,4 @@ This is the gear I currently have in my homelab:
   7) Swithc5 Mikrotik RB2011 10 port GBe + SFP 
 
 
-<button type="button"><a href="https://reaperlabsonline.github.io/">Back to Homepage</a></button>
+<a href="https://reaperlabsonline.github.io/">Back to Homepage</a>
