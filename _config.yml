@@ -9,7 +9,7 @@ name: Reaperlabs Blog
 description: A blog of my IT and Homelab journey ( Tips, Tricks, & Lessons Learned )
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/RL-Logo.jpeg
+avatar: /images/RL-Logo.jpeg
 
 #
 # Flags below are optional
