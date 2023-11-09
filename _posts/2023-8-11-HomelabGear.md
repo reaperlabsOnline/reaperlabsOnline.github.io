@@ -4,7 +4,7 @@ title: Homelab Gear
 permalink: /blog/HomelabGear
 --- 
 
-## __"Look at all that..."__
+## _"Look at all that..."_
 
 This is the gear I currently have in my homelab: 
 (Broken down by type) 
@@ -59,4 +59,4 @@ This is the gear I currently have in my homelab:
 ### Additional 
   1) Password Manager  <br />
   2) VPN  <br />
-  3) ILO4 __( Intergrated Lights Out management interface for HP Proliant Server)__ 
+  3) ILO4 _( Intergrated Lights Out management interface for HP Proliant Server)_ 
