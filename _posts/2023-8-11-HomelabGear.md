@@ -53,10 +53,10 @@ This is the gear I currently have in my homelab:
   11) MineOS --( for minecraft server )--
 
 ### Hypervisors 
-  1) Proxmox --(type 1)--   <br />
-  2) Virtualbox --(type 2)--
+  1) Proxmox __(type 1)__   <br />
+  2) Virtualbox __(type 2)__
 
 ### Additional 
   1) Password Manager  <br />
   2) VPN  <br />
-  3) ILO4 --( Intergrated Lights Out management interface for HP Proliant Server)-- 
+  3) ILO4 __( Intergrated Lights Out management interface for HP Proliant Server)__ 
