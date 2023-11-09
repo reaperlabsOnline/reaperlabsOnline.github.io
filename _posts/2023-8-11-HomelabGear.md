@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Homelab Gear 
-permalink: /blog/HomelabGear
+permalink: /blog/HomelabGear/
 --- 
 
 ## _"Look at all that..."_
