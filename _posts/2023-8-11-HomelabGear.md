@@ -27,7 +27,8 @@ This is the gear I currently have in my homelab:
   5) Switch3 Trendnet 24 port GBe + 2 SFP+m 10GB layer 2 <br />
   6) Switch4 5 port GBe + SFP <br />
   7) Switch5 Mikrotik RB2011 10 port GBe + SFP
-  8) OM4 Multimode SR LC-LC fiber cabling 
+  8) for SFP & SFP+ OM4 Multimode SR LC-LC fiber cabling
+  9) for RJ45 Cat6a booted utp  
 
 ### Self-Hosted 
   1) Truenas-Scale : Storage Server 
