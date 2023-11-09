@@ -1,6 +1,7 @@
 ---
 layout: default 
 title: Homelab Gear 
+permalink: /blog/HomelabGear
 --- 
 
 ## Homelab Gear 
