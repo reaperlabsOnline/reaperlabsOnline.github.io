@@ -4,7 +4,7 @@ title: Homelab Gear
 permalink: /blog/HomelabGear
 --- 
 
-## "Look at all that..."
+## __"Look at all that..."__
 
 This is the gear I currently have in my homelab: 
 (Broken down by type) 
