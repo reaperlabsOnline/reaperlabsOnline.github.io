@@ -13,8 +13,9 @@ permalink: /about/
 
 &nbsp; &nbsp; &nbsp; &nbsp; Due to having a configuable switch I set off to learn as much about network segmentation, access control, logging, and CLI cofiguration that I could. Networking has been the steeepest learning curve. There are innumerable ways to break a network and sometimes getting back in to fix it can be tricky. Fortunately I have a forgiving family, as I have knocked it out more times than I can count. The basic set up of my network is the following: 
  
- ### WAN <br />
- 1) Ziply fiber OPN -> <br /> 
+ ### WAN 
+ <br />
+ 1) Ziply fiber OPN -> 
  ### LAN  
  <br />
  2) RT1 : Netgear Nighthawk -> <br />
