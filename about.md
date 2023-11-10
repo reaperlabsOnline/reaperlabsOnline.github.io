@@ -15,13 +15,10 @@ permalink: /about/
  
  ### WAN  
  
- <br />
- 
  1) Ziply fiber OPN -> <br />
     
  ### LAN
  
- <br />
  2) RT1 : Netgear Nighthawk -> <br />
  3) RT2 : Netgear WAP 123 RT2 (Flashed to OpenwRT) bridged to port 1 of RT1  <br />
  4) SW1 : 5 port GbE + SFP Uplink (SFP Uplink to Mikrotik RB2011)  ->  <br />
