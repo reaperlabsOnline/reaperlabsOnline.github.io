@@ -1,8 +1,8 @@
 ---
 layout: post 
-title: post 
-permalink: /blog/unreleased/ 
-----
+title: testing 
+permalink: /blog/testing/ 
+---
 
 
 #testing 
