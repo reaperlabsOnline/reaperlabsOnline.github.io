@@ -16,9 +16,9 @@ permalink: /about/
  ### WAN  
  
  <br />
- 1) Ziply fiber OPN ->
- <br />
  
+ 1) Ziply fiber OPN -> <br />
+    
  ### LAN
  
  <br />
